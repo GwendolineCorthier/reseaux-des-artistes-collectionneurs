@@ -8,13 +8,13 @@
     "text": ""
   },
   "text": {
-    "more": "",
+    "more": "Cette visualisation propose de mettre en lumière les réseaux développés par les artistes collectionneurs de 1870 à nos jours.",
     "intro": "",
-    "title": ""
+    "title": "Visualisation du réseau des artistes collectionneurs (1870-2020)"
   },
   "legend": {
-    "edgeLabel": "Relations",
-    "colorLabel": "",
+    "edgeLabel": "Deux individus sont en relation lorsqu'un artiste en collectionne un autre",
+    "colorLabel": "Bleu : Artiste collectionneur           Blanc : Artiste collectionné",
     "nodeLabel": "Individus"
   },
   "features": {
@@ -33,17 +33,17 @@
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
       "defaultLabelColor": "#000",
-      "labelThreshold": 10,
+      "labelThreshold": 300,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 0.5,
-      "minEdgeSize": 0.2,
-      "minNodeSize": 1,
-      "maxNodeSize": 7
+      "maxEdgeSize": 20,
+      "minEdgeSize": 0.6,
+      "minNodeSize": 0,5,
+      "maxNodeSize": 20
     },
     "mouseProperties": {
       "maxRatio": 20,

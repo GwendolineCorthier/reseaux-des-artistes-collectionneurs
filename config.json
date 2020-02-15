@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "Deux individus sont en relation lorsqu'un artiste en collectionne un autre",
-    "colorLabel": "Bleu/ Artiste collectionneur Blanc/Artiste collectionné",
+    "colorLabel": "Bleu : Artiste collectionneur I          Blanc : Artiste collectionné",
     "nodeLabel": "Individus"
   },
   "features": {
